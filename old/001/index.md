@@ -1,3 +1,8 @@
+---
+layout: page
+title: lesson1
+---
+
 # ID の取得
 - githubのアクセス [github](https://github.com/)
 - 手順に従てIDをゲット
