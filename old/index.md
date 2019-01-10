@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 人生の奥義
+title: life
 ---
 
 

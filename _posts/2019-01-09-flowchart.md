@@ -1,6 +1,7 @@
 ---
-layout: page
-title: flow chart
+layout: post
+title:  flowchart
+categories: study
 ---
 
 #test 

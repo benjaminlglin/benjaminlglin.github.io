@@ -1,7 +1,13 @@
 ---
-layout: page
+layout: post
 title: lesson1
+date:   2016-08-27 01:08:00 +0800
+categories: document
+tag: 教程
 ---
+* content
+{:toc}
+
 
 # ID の取得
 - githubのアクセス [github](https://github.com/)

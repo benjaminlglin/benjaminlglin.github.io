@@ -1,3 +1,8 @@
+---
+layout: page
+title: children
+---
+
 # 大分類
 
 - list1
