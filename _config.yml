@@ -26,7 +26,8 @@ github_username:  benjaminlglin
 
 # Build settings
 markdown: kramdown
-theme:  jekyll-theme-cayman
+theme:  minima
+#jekyll-theme-cayman
 #minima
 plugins:
   - jekyll-feed
