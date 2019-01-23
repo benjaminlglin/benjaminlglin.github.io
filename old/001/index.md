@@ -1,6 +1,6 @@
 ---
 layout: page
-title: life
+title: 福音
 ---
 
 

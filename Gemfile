@@ -21,9 +21,9 @@ gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'jekyll-postfiles', '~> 3.0'
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-mermaid"
-  gem "jekyll-postfiles"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
