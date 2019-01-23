@@ -32,6 +32,7 @@ theme:  minima
 plugins:
   - jekyll-feed
   - jekyll-mermaid
+#  - jekyll-postfiles
 mermaid:
   src: '/assets/js/mermaid.js'
 # Exclude from processing.
@@ -45,3 +46,15 @@ mermaid:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#permalink: /:year/:month/:day/:title/a/
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+#permalink: /_posts/:path
+#paginate: 2
+
+#exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+# collections:
+#   xx:
+#     output: true
+#     permalink: /xx/:path
+#     #permalink: /:year/:month/:day/:title/
