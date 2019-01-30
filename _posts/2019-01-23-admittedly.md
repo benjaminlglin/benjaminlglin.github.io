@@ -10,9 +10,31 @@ categories: study
 Your browser does not support the audio element.
 </audio>
 
+# admit
+mit, mis ＝ send 語根
+ad- ＝ to
+- 承認
+- 許可進入
+  - admission /ədmíʃən/ (名) 入場
+  - admittance /ədmítns/ (名) 入場許可
 
+## admittedly
+公認地
+
+# List all words ending with mit
+
+- admit
+- commit
+- hermitt
+- limit
+- submit
+- transmit
+
+# a bit on the side
+![](/assets/A20190130-144207.png)
+![](/assets/A20190130-144700.png)
 # youtube
-![](/assets/2019-01-29-20-07-15.png)
+
 # explaination
 
 # sample
