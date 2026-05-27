@@ -1,9 +1,10 @@
-+++
-date = '2026-05-26T14:52:39+09:00'
-draft = false
-title = '極簡的 Hugo 初始化流程'
+---
+date: 2026-05-26T14:52:39+09:00
+draft: false
+title: '極簡的 Hugo 初始化流程'
 featured: true
-+++
+---
+
 這是一份極簡的 Hugo 初始化流程，專門為「不想處理相依性地獄、只想寫 Markdown」的你設計。
 
 ### 1. 安裝 Hugo (確保你安裝的是 `extended` 版本，這是最穩定的)
